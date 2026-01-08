@@ -10,12 +10,15 @@
 
 
 ### Pode ser operado diretamente no Excel, ou através de uma tela simples 
+#### Verificação de primeiro nível
+
 ![Tela Formulario Usuario](Images/Userform.png)
 
 ![Tela Formulario Usuario](Images/Userform2.png)
 
 
-## Exemplos de Resultado 
+## Exemplos de Resultado da árvore de dependências 
+#### Verificação de segundo nível
 
 ![Figura Instalacao Operacao](Images/Instalacao_Operacao.jpg)
 
@@ -25,3 +28,4 @@
 
 
 ![Figura Porte Empresa](Images/Porte_Empresa.jpg)
+
