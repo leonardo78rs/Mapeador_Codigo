@@ -1,4 +1,11 @@
-# Mapeador de Fluxos de Sistema 
+# Mapeador de Fluxos de códigos em programação estruturada
+
+* desenvolvido em VBA
+* análise de textos 
+* leitura de arquivos 
+* construção matematica de imagens
+
+Objetivo e funcionalidade:
 
 - Busca nome de procedures e functions, nomes de tabelas ou palavras no geral 
 - Realiza busca em dois níveis
